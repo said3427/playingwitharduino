@@ -1,0 +1,4 @@
+{
+    "sketch": "AnalogReadSerial_sep25a/AnalogReadSerial_sep25a.ino",
+    "board": "arduino:avr:uno"
+}
